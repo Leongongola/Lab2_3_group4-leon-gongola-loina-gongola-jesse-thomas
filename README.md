@@ -2,6 +2,6 @@
 
 Group Members
 
-leon gongola
-loina gongola
+leon gongola,
+loina gongola,
 jesse thomas
